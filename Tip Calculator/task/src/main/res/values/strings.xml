@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tip calculator</string>
+    <string name="bill_amount">Insert Bill Value</string>
+    <string name="bill_label">Bill Value: $</string>
+    <string name="tip_label">Tip: </string>
+    <string name="percent_symbol">%</string>
+</resources>

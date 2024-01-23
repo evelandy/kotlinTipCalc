@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.calculator.tip.Stage1UnitTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-01-23T17:18:13" hostname="Wills-MacBook-Pro.local" time="0.294">
+  <properties/>
+  <testcase name="test00_checkEditText" classname="org.hyperskill.calculator.tip.Stage1UnitTest" time="0.065"/>
+  <testcase name="test01_checkSlider" classname="org.hyperskill.calculator.tip.Stage1UnitTest" time="0.063"/>
+  <testcase name="test02_checkBillValueTextView" classname="org.hyperskill.calculator.tip.Stage1UnitTest" time="0.055"/>
+  <testcase name="test03_checkTipPercentTextView" classname="org.hyperskill.calculator.tip.Stage1UnitTest" time="0.049"/>
+  <testcase name="test04_checkTipAmountTextView" classname="org.hyperskill.calculator.tip.Stage1UnitTest" time="0.062"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

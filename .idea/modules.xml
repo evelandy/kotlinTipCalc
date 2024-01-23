@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tip_Calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Tip_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tip Calculator/task/Tip_Calculator.Tip_Calculator-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tip Calculator/task/Tip_Calculator.Tip_Calculator-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tip Calculator/task/Tip_Calculator.Tip_Calculator-task.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Tip Calculator/task/Tip_Calculator.Tip_Calculator-task.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tip Calculator/task/Tip_Calculator.Tip_Calculator-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tip Calculator/task/Tip_Calculator.Tip_Calculator-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tip Calculator/task/Tip_Calculator.Tip_Calculator-task.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Tip Calculator/task/Tip_Calculator.Tip_Calculator-task.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Fix the program/Tip_Calculator.Topics-Errors_in_programs-Fix_the_program.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Fix the program/Tip_Calculator.Topics-Errors_in_programs-Fix_the_program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Theory/Tip_Calculator.Topics-Errors_in_programs-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Theory/Tip_Calculator.Topics-Errors_in_programs-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Two groups of errors/Tip_Calculator.Topics-Errors_in_programs-Two_groups_of_errors.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Two groups of errors/Tip_Calculator.Topics-Errors_in_programs-Two_groups_of_errors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tip_Calculator.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tip_Calculator.util.iml" />
+    </modules>
+  </component>
+</project>

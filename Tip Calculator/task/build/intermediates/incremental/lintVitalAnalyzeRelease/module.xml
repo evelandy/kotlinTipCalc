@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/willg/AndroidStudioProjects/Tip Calculator/Tip Calculator/task"
+    name=":Tip_Calculator-task"
+    type="APP"
+    maven="Tip Calculator:Tip_Calculator-task:"
+    gradle="7.4.0"
+    buildFolder="build"
+    bootClassPath="/Users/willg/Library/Android/sdk/platforms/android-29/android.jar:/Users/willg/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-29"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
